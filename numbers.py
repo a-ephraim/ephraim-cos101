@@ -1,3 +1,6 @@
+#GIT ID - BHU/26/04/10/0009
+
+
 def get_number_list():
     user_input = input("Enter numbers separated by spaces: ")
     parts = user_input.split()
